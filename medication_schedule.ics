@@ -1,0 +1,1282 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250708
+DESCRIPTION:Transition Day 9/18 (from Step 2 to 3)\nPrepare for 1 big scoop: Mix one dose of '1 big scoop' into 3 oz of applesauce. Take 45ml of this mixture today.
+SUMMARY:Dose: 45ml from 1 big scoop mixture
+UID:13fa3e9f-518b-47e7-8165-be8c2f19fedc@13fa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250828
+DESCRIPTION:Take 2 big scoops of cashew. (Day 10/14 of Step 4)
+SUMMARY:Dose: 2 big scoops
+UID:947cf9c1-193a-4c34-935f-2d5419f51dbe@947c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250629
+DESCRIPTION:Take 2 small scoops of cashew. (Day 14/14 of Step 2)
+SUMMARY:Dose: 2 small scoops
+UID:eafa747e-2320-45e2-89df-56dc898e2889@eafa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251006
+DESCRIPTION:Transition Day 3/18 (from Step 5 to 6)\nPrepare for 1/32th tsp: Mix one dose of '1/32th tsp' into 3 oz of applesauce. Take 15ml of this mixture today.
+SUMMARY:Dose: 15ml from 1/32th tsp mixture
+UID:3f9163c6-6d78-4ecd-9618-1f4e797af963@3f91.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250607
+DESCRIPTION:Transition Day 10/18 (from Step 1 to 2)\nPrepare for 2 small scoops: Mix one dose of '2 small scoops' into 3 oz of applesauce. Take 50ml of this mixture today.
+SUMMARY:Dose: 50ml from 2 small scoops mixture
+UID:b69011c8-bc0f-47cf-a93c-5d34aba98c9b@b690.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251202
+DESCRIPTION:Take 1/16th tsp of cashew. (Day 10/14 of Step 7)
+SUMMARY:Dose: 1/16th tsp
+UID:b2a6133d-a8cb-4a1d-8c67-91d5c1b749b9@b2a6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250730
+DESCRIPTION:Take 1 big scoop of cashew. (Day 13/14 of Step 3)
+SUMMARY:Dose: 1 big scoop
+UID:d700ce52-de2a-4933-b775-c9a7218a3ed2@d700.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250602
+DESCRIPTION:Transition Day 5/18 (from Step 1 to 2)\nPrepare for 2 small scoops: Mix one dose of '2 small scoops' into 3 oz of applesauce. Take 25ml of this mixture today.
+SUMMARY:Dose: 25ml from 2 small scoops mixture
+UID:90b25870-29d0-472c-a622-0adb8db3b200@90b2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251025
+DESCRIPTION:Take 1/32th tsp of cashew. (Day 4/14 of Step 6)
+SUMMARY:Dose: 1/32th tsp
+UID:17545b46-f19b-48c3-8d15-d8ce292b7131@1754.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251117
+DESCRIPTION:Transition Day 13/18 (from Step 6 to 7)\nPrepare for 1/16th tsp: Mix one dose of '1/16th tsp' into 3 oz of applesauce. Take 65ml of this mixture today.
+SUMMARY:Dose: 65ml from 1/16th tsp mixture
+UID:a1640d6b-c0aa-411c-ae0c-853060663dbd@a164.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250513
+DESCRIPTION:Take 1 small scoop of cashew. (Day 6/14 of Step 1)
+SUMMARY:Dose: 1 small scoop
+UID:19b0a282-8736-4574-b728-1b753c2c5fb8@19b0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250628
+DESCRIPTION:Take 2 small scoops of cashew. (Day 13/14 of Step 2)
+SUMMARY:Dose: 2 small scoops
+UID:d8b28619-56ed-438a-9855-dda073eeb659@d8b2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251012
+DESCRIPTION:Transition Day 9/18 (from Step 5 to 6)\nPrepare for 1/32th tsp: Mix one dose of '1/32th tsp' into 3 oz of applesauce. Take 45ml of this mixture today.
+SUMMARY:Dose: 45ml from 1/32th tsp mixture
+UID:141f6372-163f-4131-88ff-b7f1c6928f59@141f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250616
+DESCRIPTION:Take 2 small scoops of cashew. (Day 1/14 of Step 2)
+SUMMARY:Dose: 2 small scoops
+UID:e4a78e11-b595-4794-b080-864a74d6ca9b@e4a7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250929
+DESCRIPTION:Take 1/64th tsp of cashew. (Day 10/14 of Step 5)
+SUMMARY:Dose: 1/64th tsp
+UID:6958d5f9-18e6-4129-b983-6fe5489f146f@6958.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251020
+DESCRIPTION:Transition Day 17/18 (from Step 5 to 6)\nPrepare for 1/32th tsp: Mix one dose of '1/32th tsp' into 3 oz of applesauce. Take 85ml of this mixture today.
+SUMMARY:Dose: 85ml from 1/32th tsp mixture
+UID:fac1c16a-c8b3-4174-a4c3-e3fa8cb2a3f2@fac1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250918
+DESCRIPTION:Transition Day 17/18 (from Step 4 to 5)\nPrepare for 1/64th tsp: Mix one dose of '1/64th tsp' into 3 oz of applesauce. Take 85ml of this mixture today.
+SUMMARY:Dose: 85ml from 1/64th tsp mixture
+UID:20f9a852-e354-4eaf-b959-170d24e1273a@20f9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250721
+DESCRIPTION:Take 1 big scoop of cashew. (Day 4/14 of Step 3)
+SUMMARY:Dose: 1 big scoop
+UID:bdc705e7-e685-4848-9034-7bdb2d04bd29@bdc7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251127
+DESCRIPTION:Take 1/16th tsp of cashew. (Day 5/14 of Step 7)
+SUMMARY:Dose: 1/16th tsp
+UID:29394bea-6b12-4729-aa01-72582f83c1a2@2939.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250922
+DESCRIPTION:Take 1/64th tsp of cashew. (Day 3/14 of Step 5)
+SUMMARY:Dose: 1/64th tsp
+UID:4c8506c5-dea1-4e57-81ac-bd784762c6fa@4c85.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250613
+DESCRIPTION:Transition Day 16/18 (from Step 1 to 2)\nPrepare for 2 small scoops: Mix one dose of '2 small scoops' into 3 oz of applesauce. Take 80ml of this mixture today.
+SUMMARY:Dose: 80ml from 2 small scoops mixture
+UID:ca79bb32-6d0c-49be-97f3-7ea3b4709074@ca79.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251112
+DESCRIPTION:Transition Day 8/18 (from Step 6 to 7)\nPrepare for 1/16th tsp: Mix one dose of '1/16th tsp' into 3 oz of applesauce. Take 40ml of this mixture today.
+SUMMARY:Dose: 40ml from 1/16th tsp mixture
+UID:9dc78af3-d0e9-46d9-8e9f-e26582cfbd4d@9dc7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250813
+DESCRIPTION:Transition Day 13/18 (from Step 3 to 4)\nPrepare for 2 big scoops: Mix one dose of '2 big scoops' into 3 oz of applesauce. Take 65ml of this mixture today.
+SUMMARY:Dose: 65ml from 2 big scoops mixture
+UID:d78ff3aa-fe57-42dd-adc9-c179617be126@d78f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250704
+DESCRIPTION:Transition Day 5/18 (from Step 2 to 3)\nPrepare for 1 big scoop: Mix one dose of '1 big scoop' into 3 oz of applesauce. Take 25ml of this mixture today.
+SUMMARY:Dose: 25ml from 1 big scoop mixture
+UID:ff058bcf-56e6-4aab-ba14-a7d98f110fd1@ff05.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250604
+DESCRIPTION:Transition Day 7/18 (from Step 1 to 2)\nPrepare for 2 small scoops: Mix one dose of '2 small scoops' into 3 oz of applesauce. Take 35ml of this mixture today.
+SUMMARY:Dose: 35ml from 2 small scoops mixture
+UID:759a65e9-df60-4663-8a2b-cf542a2ad9ea@759a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250804
+DESCRIPTION:Transition Day 4/18 (from Step 3 to 4)\nPrepare for 2 big scoops: Mix one dose of '2 big scoops' into 3 oz of applesauce. Take 20ml of this mixture today.
+SUMMARY:Dose: 20ml from 2 big scoops mixture
+UID:5b64d30e-cc42-4b12-ac4f-b66f4aef1449@5b64.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250515
+DESCRIPTION:Take 1 small scoop of cashew. (Day 8/14 of Step 1)
+SUMMARY:Dose: 1 small scoop
+UID:ef22f041-235c-4132-95eb-53ff2c53564d@ef22.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250711
+DESCRIPTION:Transition Day 12/18 (from Step 2 to 3)\nPrepare for 1 big scoop: Mix one dose of '1 big scoop' into 3 oz of applesauce. Take 60ml of this mixture today.
+SUMMARY:Dose: 60ml from 1 big scoop mixture
+UID:96b447e4-1003-4433-b08a-361d7bf3f5dd@96b4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250624
+DESCRIPTION:Take 2 small scoops of cashew. (Day 9/14 of Step 2)
+SUMMARY:Dose: 2 small scoops
+UID:44935420-7d69-4946-944b-f4f58b56884a@4493.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250518
+DESCRIPTION:Take 1 small scoop of cashew. (Day 11/14 of Step 1)
+SUMMARY:Dose: 1 small scoop
+UID:5302b54b-4fc7-4b88-80bb-a2c02d5cfdcb@5302.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250820
+DESCRIPTION:Take 2 big scoops of cashew. (Day 2/14 of Step 4)
+SUMMARY:Dose: 2 big scoops
+UID:9d7f8992-7518-4eac-b4aa-e8b9f3adca2f@9d7f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250611
+DESCRIPTION:Transition Day 14/18 (from Step 1 to 2)\nPrepare for 2 small scoops: Mix one dose of '2 small scoops' into 3 oz of applesauce. Take 70ml of this mixture today.
+SUMMARY:Dose: 70ml from 2 small scoops mixture
+UID:ee141c25-ab01-482a-80d4-d789b3849c65@ee14.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250927
+DESCRIPTION:Take 1/64th tsp of cashew. (Day 8/14 of Step 5)
+SUMMARY:Dose: 1/64th tsp
+UID:1a2993ca-5981-48f1-9fba-f6b6035249f2@1a29.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251109
+DESCRIPTION:Transition Day 5/18 (from Step 6 to 7)\nPrepare for 1/16th tsp: Mix one dose of '1/16th tsp' into 3 oz of applesauce. Take 25ml of this mixture today.
+SUMMARY:Dose: 25ml from 1/16th tsp mixture
+UID:ddedc982-04d3-4063-97cb-6115603edb2b@dded.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251111
+DESCRIPTION:Transition Day 7/18 (from Step 6 to 7)\nPrepare for 1/16th tsp: Mix one dose of '1/16th tsp' into 3 oz of applesauce. Take 35ml of this mixture today.
+SUMMARY:Dose: 35ml from 1/16th tsp mixture
+UID:f97fd7d8-ec8a-4624-907c-d455484955c7@f97f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251022
+DESCRIPTION:Take 1/32th tsp of cashew. (Day 1/14 of Step 6)
+SUMMARY:Dose: 1/32th tsp
+UID:4d736bc6-e484-4f92-84ea-ed99442ed93d@4d73.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250725
+DESCRIPTION:Take 1 big scoop of cashew. (Day 8/14 of Step 3)
+SUMMARY:Dose: 1 big scoop
+UID:14f87be3-7e13-46e0-b8f5-c94b069fe6ef@14f8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251028
+DESCRIPTION:Take 1/32th tsp of cashew. (Day 7/14 of Step 6)
+SUMMARY:Dose: 1/32th tsp
+UID:b0c42400-73d1-411d-a3e2-718e1f1be832@b0c4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250625
+DESCRIPTION:Take 2 small scoops of cashew. (Day 10/14 of Step 2)
+SUMMARY:Dose: 2 small scoops
+UID:b4cbafe4-a262-4fe7-8f74-bf45e5b37f0a@b4cb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251011
+DESCRIPTION:Transition Day 8/18 (from Step 5 to 6)\nPrepare for 1/32th tsp: Mix one dose of '1/32th tsp' into 3 oz of applesauce. Take 40ml of this mixture today.
+SUMMARY:Dose: 40ml from 1/32th tsp mixture
+UID:0753b0e6-17d7-4f00-baad-5817fc741738@0753.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250716
+DESCRIPTION:Transition Day 17/18 (from Step 2 to 3)\nPrepare for 1 big scoop: Mix one dose of '1 big scoop' into 3 oz of applesauce. Take 85ml of this mixture today.
+SUMMARY:Dose: 85ml from 1 big scoop mixture
+UID:138f667b-5722-4867-a0fa-2dce66c9160c@138f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250526
+DESCRIPTION:Extended period for Step 1 ('1 small scoop'). (Delay Day 5/7)\nContinue taking 1 small scoop of cashew.
+SUMMARY:Dose (Extended): 1 small scoop
+UID:057e8768-9ec6-4b8d-a398-064c88ece5a5@057e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250517
+DESCRIPTION:Take 1 small scoop of cashew. (Day 10/14 of Step 1)
+SUMMARY:Dose: 1 small scoop
+UID:55d59328-1815-4896-b7cb-ce18fe33fb2b@55d5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250531
+DESCRIPTION:Transition Day 3/18 (from Step 1 to 2)\nPrepare for 2 small scoops: Mix one dose of '2 small scoops' into 3 oz of applesauce. Take 15ml of this mixture today.
+SUMMARY:Dose: 15ml from 2 small scoops mixture
+UID:2218ea4b-84d9-4da6-9e6f-fc3f4bc4a93a@2218.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250810
+DESCRIPTION:Transition Day 10/18 (from Step 3 to 4)\nPrepare for 2 big scoops: Mix one dose of '2 big scoops' into 3 oz of applesauce. Take 50ml of this mixture today.
+SUMMARY:Dose: 50ml from 2 big scoops mixture
+UID:dc6c5d36-846a-4f66-9d22-bb09068bf6e5@dc6c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250821
+DESCRIPTION:Take 2 big scoops of cashew. (Day 3/14 of Step 4)
+SUMMARY:Dose: 2 big scoops
+UID:6a6cf392-5cf6-4112-829c-d95daa2e8f32@6a6c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250910
+DESCRIPTION:Transition Day 9/18 (from Step 4 to 5)\nPrepare for 1/64th tsp: Mix one dose of '1/64th tsp' into 3 oz of applesauce. Take 45ml of this mixture today.
+SUMMARY:Dose: 45ml from 1/64th tsp mixture
+UID:6f6797a4-dd61-4cd8-ba67-d954764b1f65@6f67.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250529
+DESCRIPTION:Transition Day 1/18 (from Step 1 to 2)\nPrepare for 2 small scoops: Mix one dose of '2 small scoops' into 3 oz of applesauce. Take 5ml of this mixture today.
+SUMMARY:Dose: 5ml from 2 small scoops mixture
+UID:e2c63519-e67e-4ac4-965f-3ce40234a4cf@e2c6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251115
+DESCRIPTION:Transition Day 11/18 (from Step 6 to 7)\nPrepare for 1/16th tsp: Mix one dose of '1/16th tsp' into 3 oz of applesauce. Take 55ml of this mixture today.
+SUMMARY:Dose: 55ml from 1/16th tsp mixture
+UID:5391126a-d870-4b96-8c4b-f184d06e078d@5391.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251103
+DESCRIPTION:Take 1/32th tsp of cashew. (Day 13/14 of Step 6)
+SUMMARY:Dose: 1/32th tsp
+UID:d6a71b5e-653c-4991-b637-f5c20a27d904@d6a7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251001
+DESCRIPTION:Take 1/64th tsp of cashew. (Day 12/14 of Step 5)
+SUMMARY:Dose: 1/64th tsp
+UID:d99f7cbc-d11a-4419-8c8a-e457981ee3a7@d99f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251023
+DESCRIPTION:Take 1/32th tsp of cashew. (Day 2/14 of Step 6)
+SUMMARY:Dose: 1/32th tsp
+UID:0b839fa3-4103-4887-ab02-7fb75ea29bde@0b83.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250603
+DESCRIPTION:Transition Day 6/18 (from Step 1 to 2)\nPrepare for 2 small scoops: Mix one dose of '2 small scoops' into 3 oz of applesauce. Take 30ml of this mixture today.
+SUMMARY:Dose: 30ml from 2 small scoops mixture
+UID:f394b1e1-10ab-43fb-84c1-e96a3a5342b2@f394.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251121
+DESCRIPTION:Transition Day 17/18 (from Step 6 to 7)\nPrepare for 1/16th tsp: Mix one dose of '1/16th tsp' into 3 oz of applesauce. Take 85ml of this mixture today.
+SUMMARY:Dose: 85ml from 1/16th tsp mixture
+UID:5ab6557e-aed0-403a-813f-fef86809a29a@5ab6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250914
+DESCRIPTION:Transition Day 13/18 (from Step 4 to 5)\nPrepare for 1/64th tsp: Mix one dose of '1/64th tsp' into 3 oz of applesauce. Take 65ml of this mixture today.
+SUMMARY:Dose: 65ml from 1/64th tsp mixture
+UID:4b212e7e-354c-4739-8cdd-3a3c415af083@4b21.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250919
+DESCRIPTION:Transition Day 18/18 (from Step 4 to 5)\nPrepare for 1/64th tsp: Mix one dose of '1/64th tsp' into 3 oz of applesauce. Take 90ml of this mixture today.
+SUMMARY:Dose: 90ml from 1/64th tsp mixture
+UID:fa9b6595-6f00-4d23-ab3f-8960415d37b7@fa9b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250818
+DESCRIPTION:Transition Day 18/18 (from Step 3 to 4)\nPrepare for 2 big scoops: Mix one dose of '2 big scoops' into 3 oz of applesauce. Take 90ml of this mixture today.
+SUMMARY:Dose: 90ml from 2 big scoops mixture
+UID:42b3360f-7d67-40ad-a185-78c26a6ee2a2@42b3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250620
+DESCRIPTION:Take 2 small scoops of cashew. (Day 5/14 of Step 2)
+SUMMARY:Dose: 2 small scoops
+UID:08bfc9e8-a328-4489-b4d2-ff8fd31403d4@08bf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250715
+DESCRIPTION:Transition Day 16/18 (from Step 2 to 3)\nPrepare for 1 big scoop: Mix one dose of '1 big scoop' into 3 oz of applesauce. Take 80ml of this mixture today.
+SUMMARY:Dose: 80ml from 1 big scoop mixture
+UID:d3d058af-05f3-49ba-956f-2bd917930ebe@d3d0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250702
+DESCRIPTION:Transition Day 3/18 (from Step 2 to 3)\nPrepare for 1 big scoop: Mix one dose of '1 big scoop' into 3 oz of applesauce. Take 15ml of this mixture today.
+SUMMARY:Dose: 15ml from 1 big scoop mixture
+UID:a1bbb4c7-0430-4036-8e05-88e2de0e753a@a1bb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250907
+DESCRIPTION:Transition Day 6/18 (from Step 4 to 5)\nPrepare for 1/64th tsp: Mix one dose of '1/64th tsp' into 3 oz of applesauce. Take 30ml of this mixture today.
+SUMMARY:Dose: 30ml from 1/64th tsp mixture
+UID:49f101a6-6b72-49db-809c-997a8db375f8@49f1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251031
+DESCRIPTION:Take 1/32th tsp of cashew. (Day 10/14 of Step 6)
+SUMMARY:Dose: 1/32th tsp
+UID:daf5f3bc-09e4-4727-9462-88143ab88f69@daf5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250703
+DESCRIPTION:Transition Day 4/18 (from Step 2 to 3)\nPrepare for 1 big scoop: Mix one dose of '1 big scoop' into 3 oz of applesauce. Take 20ml of this mixture today.
+SUMMARY:Dose: 20ml from 1 big scoop mixture
+UID:2b23a985-24a7-4058-ad25-ea09ec0ed003@2b23.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250614
+DESCRIPTION:Transition Day 17/18 (from Step 1 to 2)\nPrepare for 2 small scoops: Mix one dose of '2 small scoops' into 3 oz of applesauce. Take 85ml of this mixture today.
+SUMMARY:Dose: 85ml from 2 small scoops mixture
+UID:12479c5c-3622-48e1-bed2-007b48c1a4b2@1247.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250726
+DESCRIPTION:Take 1 big scoop of cashew. (Day 9/14 of Step 3)
+SUMMARY:Dose: 1 big scoop
+UID:54328da9-f374-4b4b-b709-5ad4ef4e734e@5432.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250915
+DESCRIPTION:Transition Day 14/18 (from Step 4 to 5)\nPrepare for 1/64th tsp: Mix one dose of '1/64th tsp' into 3 oz of applesauce. Take 70ml of this mixture today.
+SUMMARY:Dose: 70ml from 1/64th tsp mixture
+UID:ac3dd4c8-1484-4427-ad02-7261e7878684@ac3d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251203
+DESCRIPTION:Take 1/16th tsp of cashew. (Day 11/14 of Step 7)
+SUMMARY:Dose: 1/16th tsp
+UID:3b5f52fa-c62f-49db-bede-dc6180929e5f@3b5f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251120
+DESCRIPTION:Transition Day 16/18 (from Step 6 to 7)\nPrepare for 1/16th tsp: Mix one dose of '1/16th tsp' into 3 oz of applesauce. Take 80ml of this mixture today.
+SUMMARY:Dose: 80ml from 1/16th tsp mixture
+UID:fc6f0404-d8d6-4669-9545-ac57069fe576@fc6f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250524
+DESCRIPTION:Extended period for Step 1 ('1 small scoop'). (Delay Day 3/7)\nContinue taking 1 small scoop of cashew.
+SUMMARY:Dose (Extended): 1 small scoop
+UID:9f4dfcc8-be81-46e0-a62e-b16e74bdd052@9f4d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250912
+DESCRIPTION:Transition Day 11/18 (from Step 4 to 5)\nPrepare for 1/64th tsp: Mix one dose of '1/64th tsp' into 3 oz of applesauce. Take 55ml of this mixture today.
+SUMMARY:Dose: 55ml from 1/64th tsp mixture
+UID:b0476090-3ebb-4ae5-ae3e-0e5f67008a05@b047.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251124
+DESCRIPTION:Take 1/16th tsp of cashew. (Day 2/14 of Step 7)
+SUMMARY:Dose: 1/16th tsp
+UID:675c6105-7e21-46c6-a39c-4ad747e1ba01@675c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251107
+DESCRIPTION:Transition Day 3/18 (from Step 6 to 7)\nPrepare for 1/16th tsp: Mix one dose of '1/16th tsp' into 3 oz of applesauce. Take 15ml of this mixture today.
+SUMMARY:Dose: 15ml from 1/16th tsp mixture
+UID:40ca941f-82f0-4daf-9f5f-956806a94ada@40ca.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250924
+DESCRIPTION:Take 1/64th tsp of cashew. (Day 5/14 of Step 5)
+SUMMARY:Dose: 1/64th tsp
+UID:c641b72e-1215-45a9-88fc-8d4baebe7d97@c641.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250909
+DESCRIPTION:Transition Day 8/18 (from Step 4 to 5)\nPrepare for 1/64th tsp: Mix one dose of '1/64th tsp' into 3 oz of applesauce. Take 40ml of this mixture today.
+SUMMARY:Dose: 40ml from 1/64th tsp mixture
+UID:171eba7c-4c5e-488c-8084-d872593632ee@171e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251003
+DESCRIPTION:Take 1/64th tsp of cashew. (Day 14/14 of Step 5)
+SUMMARY:Dose: 1/64th tsp
+UID:7184b4bd-b385-4b14-ab4d-4a95da656e61@7184.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250807
+DESCRIPTION:Transition Day 7/18 (from Step 3 to 4)\nPrepare for 2 big scoops: Mix one dose of '2 big scoops' into 3 oz of applesauce. Take 35ml of this mixture today.
+SUMMARY:Dose: 35ml from 2 big scoops mixture
+UID:c7103937-8721-4e3d-8e86-59f496c3f298@c710.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250917
+DESCRIPTION:Transition Day 16/18 (from Step 4 to 5)\nPrepare for 1/64th tsp: Mix one dose of '1/64th tsp' into 3 oz of applesauce. Take 80ml of this mixture today.
+SUMMARY:Dose: 80ml from 1/64th tsp mixture
+UID:e9d8aacd-331b-44be-aae2-129aad2ed51e@e9d8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250520
+DESCRIPTION:Take 1 small scoop of cashew. (Day 13/14 of Step 1)
+SUMMARY:Dose: 1 small scoop
+UID:b8bb1db7-1c2c-4c96-9a9d-333b6c4f580a@b8bb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250825
+DESCRIPTION:Take 2 big scoops of cashew. (Day 7/14 of Step 4)
+SUMMARY:Dose: 2 big scoops
+UID:44f79d08-aedc-4a49-9de3-e24741dad671@44f7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250817
+DESCRIPTION:Transition Day 17/18 (from Step 3 to 4)\nPrepare for 2 big scoops: Mix one dose of '2 big scoops' into 3 oz of applesauce. Take 85ml of this mixture today.
+SUMMARY:Dose: 85ml from 2 big scoops mixture
+UID:7994a0d9-2725-493e-b0ea-0841fafa87ff@7994.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251024
+DESCRIPTION:Take 1/32th tsp of cashew. (Day 3/14 of Step 6)
+SUMMARY:Dose: 1/32th tsp
+UID:ebfe46be-15df-4834-98eb-25a082fed2f9@ebfe.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250706
+DESCRIPTION:Transition Day 7/18 (from Step 2 to 3)\nPrepare for 1 big scoop: Mix one dose of '1 big scoop' into 3 oz of applesauce. Take 35ml of this mixture today.
+SUMMARY:Dose: 35ml from 1 big scoop mixture
+UID:e7208442-4882-472f-af8e-f94572f42bb7@e720.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251205
+DESCRIPTION:Take 1/16th tsp of cashew. (Day 13/14 of Step 7)
+SUMMARY:Dose: 1/16th tsp
+UID:b5929b19-38dd-47c5-85f2-914be02c7dc1@b592.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250903
+DESCRIPTION:Transition Day 2/18 (from Step 4 to 5)\nPrepare for 1/64th tsp: Mix one dose of '1/64th tsp' into 3 oz of applesauce. Take 10ml of this mixture today.
+SUMMARY:Dose: 10ml from 1/64th tsp mixture
+UID:94fdfa64-8966-4928-8292-4a0fe4a0f14a@94fd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250805
+DESCRIPTION:Transition Day 5/18 (from Step 3 to 4)\nPrepare for 2 big scoops: Mix one dose of '2 big scoops' into 3 oz of applesauce. Take 25ml of this mixture today.
+SUMMARY:Dose: 25ml from 2 big scoops mixture
+UID:caa53ec1-e1ad-4379-8da1-2f5558caa98c@caa5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250826
+DESCRIPTION:Take 2 big scoops of cashew. (Day 8/14 of Step 4)
+SUMMARY:Dose: 2 big scoops
+UID:f03c25a4-bb29-4d3a-8bb7-4c2a7252016e@f03c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250906
+DESCRIPTION:Transition Day 5/18 (from Step 4 to 5)\nPrepare for 1/64th tsp: Mix one dose of '1/64th tsp' into 3 oz of applesauce. Take 25ml of this mixture today.
+SUMMARY:Dose: 25ml from 1/64th tsp mixture
+UID:1c2da2d3-d216-4bf2-89d2-64bd0bb5640c@1c2d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250514
+DESCRIPTION:Take 1 small scoop of cashew. (Day 7/14 of Step 1)
+SUMMARY:Dose: 1 small scoop
+UID:205b3161-9120-4446-8747-58fa363a96fc@205b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251125
+DESCRIPTION:Take 1/16th tsp of cashew. (Day 3/14 of Step 7)
+SUMMARY:Dose: 1/16th tsp
+UID:a94e8c2a-af28-45d8-8f14-3f9290baab07@a94e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250823
+DESCRIPTION:Take 2 big scoops of cashew. (Day 5/14 of Step 4)
+SUMMARY:Dose: 2 big scoops
+UID:a48a7f4a-b5e4-41a8-8c40-1c84d13f88ba@a48a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250519
+DESCRIPTION:Take 1 small scoop of cashew. (Day 12/14 of Step 1)
+SUMMARY:Dose: 1 small scoop
+UID:a025d679-f9ff-4f59-b630-60b8e72c7aa7@a025.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250606
+DESCRIPTION:Transition Day 9/18 (from Step 1 to 2)\nPrepare for 2 small scoops: Mix one dose of '2 small scoops' into 3 oz of applesauce. Take 45ml of this mixture today.
+SUMMARY:Dose: 45ml from 2 small scoops mixture
+UID:c8d3cd8e-3edc-4d01-a6c7-6fb4b6556aea@c8d3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250808
+DESCRIPTION:Transition Day 8/18 (from Step 3 to 4)\nPrepare for 2 big scoops: Mix one dose of '2 big scoops' into 3 oz of applesauce. Take 40ml of this mixture today.
+SUMMARY:Dose: 40ml from 2 big scoops mixture
+UID:ddec21a3-7033-4231-ba90-e2af44fa6c05@ddec.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250930
+DESCRIPTION:Take 1/64th tsp of cashew. (Day 11/14 of Step 5)
+SUMMARY:Dose: 1/64th tsp
+UID:d53099dc-f751-46de-864d-54527cb2eb4a@d530.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250722
+DESCRIPTION:Take 1 big scoop of cashew. (Day 5/14 of Step 3)
+SUMMARY:Dose: 1 big scoop
+UID:3c93f586-e13c-4660-8785-62b5cdc9c139@3c93.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250729
+DESCRIPTION:Take 1 big scoop of cashew. (Day 12/14 of Step 3)
+SUMMARY:Dose: 1 big scoop
+UID:4158cfef-a858-439f-b644-71bb6a153e8f@4158.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251108
+DESCRIPTION:Transition Day 4/18 (from Step 6 to 7)\nPrepare for 1/16th tsp: Mix one dose of '1/16th tsp' into 3 oz of applesauce. Take 20ml of this mixture today.
+SUMMARY:Dose: 20ml from 1/16th tsp mixture
+UID:bb009ed2-19f5-4d4f-be5e-69c121a2532b@bb00.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250913
+DESCRIPTION:Transition Day 12/18 (from Step 4 to 5)\nPrepare for 1/64th tsp: Mix one dose of '1/64th tsp' into 3 oz of applesauce. Take 60ml of this mixture today.
+SUMMARY:Dose: 60ml from 1/64th tsp mixture
+UID:38cdf26b-c5d1-46e2-8d4d-976c89fef3da@38cd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250816
+DESCRIPTION:Transition Day 16/18 (from Step 3 to 4)\nPrepare for 2 big scoops: Mix one dose of '2 big scoops' into 3 oz of applesauce. Take 80ml of this mixture today.
+SUMMARY:Dose: 80ml from 2 big scoops mixture
+UID:7bde8c62-b48a-4ef8-ba89-eb60e5a2e6d8@7bde.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251017
+DESCRIPTION:Transition Day 14/18 (from Step 5 to 6)\nPrepare for 1/32th tsp: Mix one dose of '1/32th tsp' into 3 oz of applesauce. Take 70ml of this mixture today.
+SUMMARY:Dose: 70ml from 1/32th tsp mixture
+UID:df1751a9-27cd-4fe5-b54c-b0f5f7d709ce@df17.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250920
+DESCRIPTION:Take 1/64th tsp of cashew. (Day 1/14 of Step 5)
+SUMMARY:Dose: 1/64th tsp
+UID:aa7c19a1-0dba-4e79-91e5-e560aaf27728@aa7c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250719
+DESCRIPTION:Take 1 big scoop of cashew. (Day 2/14 of Step 3)
+SUMMARY:Dose: 1 big scoop
+UID:f571ea32-b2e5-42e7-9adc-76d33ee27568@f571.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251130
+DESCRIPTION:Take 1/16th tsp of cashew. (Day 8/14 of Step 7)
+SUMMARY:Dose: 1/16th tsp
+UID:c414fd1e-ed49-467d-9d3c-8744fe24c463@c414.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250901
+DESCRIPTION:Take 2 big scoops of cashew. (Day 14/14 of Step 4)
+SUMMARY:Dose: 2 big scoops
+UID:df1ffa47-6def-496d-885c-42d1fb840b97@df1f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250712
+DESCRIPTION:Transition Day 13/18 (from Step 2 to 3)\nPrepare for 1 big scoop: Mix one dose of '1 big scoop' into 3 oz of applesauce. Take 65ml of this mixture today.
+SUMMARY:Dose: 65ml from 1 big scoop mixture
+UID:549d5b22-8402-4622-9411-2e0610117c6c@549d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251008
+DESCRIPTION:Transition Day 5/18 (from Step 5 to 6)\nPrepare for 1/32th tsp: Mix one dose of '1/32th tsp' into 3 oz of applesauce. Take 25ml of this mixture today.
+SUMMARY:Dose: 25ml from 1/32th tsp mixture
+UID:95a7818a-d579-4cce-8280-e6fa1b9a9ea0@95a7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250617
+DESCRIPTION:Take 2 small scoops of cashew. (Day 2/14 of Step 2)
+SUMMARY:Dose: 2 small scoops
+UID:68769c6a-f9f9-496d-a3f2-c993172b2e1d@6876.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250812
+DESCRIPTION:Transition Day 12/18 (from Step 3 to 4)\nPrepare for 2 big scoops: Mix one dose of '2 big scoops' into 3 oz of applesauce. Take 60ml of this mixture today.
+SUMMARY:Dose: 60ml from 2 big scoops mixture
+UID:daf5078f-d51c-4910-ba45-224b774aa116@daf5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251010
+DESCRIPTION:Transition Day 7/18 (from Step 5 to 6)\nPrepare for 1/32th tsp: Mix one dose of '1/32th tsp' into 3 oz of applesauce. Take 35ml of this mixture today.
+SUMMARY:Dose: 35ml from 1/32th tsp mixture
+UID:0b319139-0653-4ad7-adbd-05170e460415@0b31.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251119
+DESCRIPTION:Transition Day 15/18 (from Step 6 to 7)\nPrepare for 1/16th tsp: Mix one dose of '1/16th tsp' into 3 oz of applesauce. Take 75ml of this mixture today.
+SUMMARY:Dose: 75ml from 1/16th tsp mixture
+UID:f83fa8ca-494b-4078-b1a8-7a11b7c5a5c8@f83f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250623
+DESCRIPTION:Take 2 small scoops of cashew. (Day 8/14 of Step 2)
+SUMMARY:Dose: 2 small scoops
+UID:561e26a4-d178-4014-9b2b-6d69589c886b@561e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250516
+DESCRIPTION:Take 1 small scoop of cashew. (Day 9/14 of Step 1)
+SUMMARY:Dose: 1 small scoop
+UID:4ced8110-0879-45f9-94b0-17a5261e3b01@4ced.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251026
+DESCRIPTION:Take 1/32th tsp of cashew. (Day 5/14 of Step 6)
+SUMMARY:Dose: 1/32th tsp
+UID:56eb67a8-40f8-4b5e-a17c-2a7f75d68653@56eb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250911
+DESCRIPTION:Transition Day 10/18 (from Step 4 to 5)\nPrepare for 1/64th tsp: Mix one dose of '1/64th tsp' into 3 oz of applesauce. Take 50ml of this mixture today.
+SUMMARY:Dose: 50ml from 1/64th tsp mixture
+UID:8f59094d-17a5-4a8a-b95c-045d71708224@8f59.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250802
+DESCRIPTION:Transition Day 2/18 (from Step 3 to 4)\nPrepare for 2 big scoops: Mix one dose of '2 big scoops' into 3 oz of applesauce. Take 10ml of this mixture today.
+SUMMARY:Dose: 10ml from 2 big scoops mixture
+UID:b70284f6-2dc1-4be5-b10c-fd2268b8af6e@b702.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250621
+DESCRIPTION:Take 2 small scoops of cashew. (Day 6/14 of Step 2)
+SUMMARY:Dose: 2 small scoops
+UID:deba3cfd-8ce3-463f-ac35-e03d453b19ab@deba.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250811
+DESCRIPTION:Transition Day 11/18 (from Step 3 to 4)\nPrepare for 2 big scoops: Mix one dose of '2 big scoops' into 3 oz of applesauce. Take 55ml of this mixture today.
+SUMMARY:Dose: 55ml from 2 big scoops mixture
+UID:fcc95b9d-4f07-4bb3-802a-7abc97c4c49f@fcc9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250925
+DESCRIPTION:Take 1/64th tsp of cashew. (Day 6/14 of Step 5)
+SUMMARY:Dose: 1/64th tsp
+UID:7babf03e-d87e-4b9b-97e1-7e8b78205647@7bab.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251009
+DESCRIPTION:Transition Day 6/18 (from Step 5 to 6)\nPrepare for 1/32th tsp: Mix one dose of '1/32th tsp' into 3 oz of applesauce. Take 30ml of this mixture today.
+SUMMARY:Dose: 30ml from 1/32th tsp mixture
+UID:71331418-2a1c-4eb3-92e1-15e16d02af84@7133.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250723
+DESCRIPTION:Take 1 big scoop of cashew. (Day 6/14 of Step 3)
+SUMMARY:Dose: 1 big scoop
+UID:46914ed4-7533-4585-a9cd-34279b958c10@4691.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251123
+DESCRIPTION:Take 1/16th tsp of cashew. (Day 1/14 of Step 7)
+SUMMARY:Dose: 1/16th tsp
+UID:6fb7cff1-524c-423b-8f64-f7495ceb6f07@6fb7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250508
+DESCRIPTION:Take 1 small scoop of cashew. (Day 1/14 of Step 1)
+SUMMARY:Dose: 1 small scoop
+UID:e80350bb-f9d2-4783-86d5-53ef2db2e5af@e803.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250916
+DESCRIPTION:Transition Day 15/18 (from Step 4 to 5)\nPrepare for 1/64th tsp: Mix one dose of '1/64th tsp' into 3 oz of applesauce. Take 75ml of this mixture today.
+SUMMARY:Dose: 75ml from 1/64th tsp mixture
+UID:6ffcf0fc-559a-4f7e-b9ee-2d8995e445ca@6ffc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250928
+DESCRIPTION:Take 1/64th tsp of cashew. (Day 9/14 of Step 5)
+SUMMARY:Dose: 1/64th tsp
+UID:fcf45aad-fa3c-4d47-bc64-cce97058cc54@fcf4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250610
+DESCRIPTION:Transition Day 13/18 (from Step 1 to 2)\nPrepare for 2 small scoops: Mix one dose of '2 small scoops' into 3 oz of applesauce. Take 65ml of this mixture today.
+SUMMARY:Dose: 65ml from 2 small scoops mixture
+UID:f223cd8b-7571-43c4-9179-2306c9638b0b@f223.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250830
+DESCRIPTION:Take 2 big scoops of cashew. (Day 12/14 of Step 4)
+SUMMARY:Dose: 2 big scoops
+UID:a4566a66-b5bb-4a2d-8ff5-e6b61f079a04@a456.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251002
+DESCRIPTION:Take 1/64th tsp of cashew. (Day 13/14 of Step 5)
+SUMMARY:Dose: 1/64th tsp
+UID:3e799e3e-4ade-4c64-ab77-45db21351d43@3e79.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251114
+DESCRIPTION:Transition Day 10/18 (from Step 6 to 7)\nPrepare for 1/16th tsp: Mix one dose of '1/16th tsp' into 3 oz of applesauce. Take 50ml of this mixture today.
+SUMMARY:Dose: 50ml from 1/16th tsp mixture
+UID:ab4caca2-934e-4e9a-8cda-da06e4bd139f@ab4c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250528
+DESCRIPTION:Extended period for Step 1 ('1 small scoop'). (Delay Day 7/7)\nContinue taking 1 small scoop of cashew.
+SUMMARY:Dose (Extended): 1 small scoop
+UID:eb1fbf2a-3629-4696-b74f-0b70e24009a1@eb1f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250908
+DESCRIPTION:Transition Day 7/18 (from Step 4 to 5)\nPrepare for 1/64th tsp: Mix one dose of '1/64th tsp' into 3 oz of applesauce. Take 35ml of this mixture today.
+SUMMARY:Dose: 35ml from 1/64th tsp mixture
+UID:aa2b15ce-4d63-4ae1-b870-338401733107@aa2b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250511
+DESCRIPTION:Take 1 small scoop of cashew. (Day 4/14 of Step 1)
+SUMMARY:Dose: 1 small scoop
+UID:283a6c6b-15d4-48df-9562-89b894ac369c@283a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251014
+DESCRIPTION:Transition Day 11/18 (from Step 5 to 6)\nPrepare for 1/32th tsp: Mix one dose of '1/32th tsp' into 3 oz of applesauce. Take 55ml of this mixture today.
+SUMMARY:Dose: 55ml from 1/32th tsp mixture
+UID:6850b8e9-3e38-4f45-940b-d1be5b247c33@6850.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251015
+DESCRIPTION:Transition Day 12/18 (from Step 5 to 6)\nPrepare for 1/32th tsp: Mix one dose of '1/32th tsp' into 3 oz of applesauce. Take 60ml of this mixture today.
+SUMMARY:Dose: 60ml from 1/32th tsp mixture
+UID:dad46291-79a5-4b9d-be18-81dc57696cf4@dad4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250731
+DESCRIPTION:Take 1 big scoop of cashew. (Day 14/14 of Step 3)
+SUMMARY:Dose: 1 big scoop
+UID:b7a23223-2ddb-46dd-a32f-0aaaa14c1807@b7a2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250809
+DESCRIPTION:Transition Day 9/18 (from Step 3 to 4)\nPrepare for 2 big scoops: Mix one dose of '2 big scoops' into 3 oz of applesauce. Take 45ml of this mixture today.
+SUMMARY:Dose: 45ml from 2 big scoops mixture
+UID:8d3eaceb-3cb5-4bf5-a2a0-c62bb6bbf871@8d3e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250605
+DESCRIPTION:Transition Day 8/18 (from Step 1 to 2)\nPrepare for 2 small scoops: Mix one dose of '2 small scoops' into 3 oz of applesauce. Take 40ml of this mixture today.
+SUMMARY:Dose: 40ml from 2 small scoops mixture
+UID:0200ef93-59f6-47c8-8888-6b47c61d39b5@0200.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250609
+DESCRIPTION:Transition Day 12/18 (from Step 1 to 2)\nPrepare for 2 small scoops: Mix one dose of '2 small scoops' into 3 oz of applesauce. Take 60ml of this mixture today.
+SUMMARY:Dose: 60ml from 2 small scoops mixture
+UID:14480c15-2ac8-4d13-9fba-f97bfaf06b01@1448.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250926
+DESCRIPTION:Take 1/64th tsp of cashew. (Day 7/14 of Step 5)
+SUMMARY:Dose: 1/64th tsp
+UID:9567ee03-d8a5-4b0e-81dd-26d8664a4d7e@9567.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251016
+DESCRIPTION:Transition Day 13/18 (from Step 5 to 6)\nPrepare for 1/32th tsp: Mix one dose of '1/32th tsp' into 3 oz of applesauce. Take 65ml of this mixture today.
+SUMMARY:Dose: 65ml from 1/32th tsp mixture
+UID:dd568041-cac7-41a0-b28a-b1f1759027c4@dd56.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251204
+DESCRIPTION:Take 1/16th tsp of cashew. (Day 12/14 of Step 7)
+SUMMARY:Dose: 1/16th tsp
+UID:8c58cfc8-51d0-4588-a1cf-fac5b9bf6cba@8c58.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250923
+DESCRIPTION:Take 1/64th tsp of cashew. (Day 4/14 of Step 5)
+SUMMARY:Dose: 1/64th tsp
+UID:3309fd56-324a-4a4e-a608-abe37a7cf11c@3309.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250523
+DESCRIPTION:Extended period for Step 1 ('1 small scoop'). (Delay Day 2/7)\nContinue taking 1 small scoop of cashew.
+SUMMARY:Dose (Extended): 1 small scoop
+UID:46e61d7d-2c2b-4e54-a24e-86b390494db0@46e6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250720
+DESCRIPTION:Take 1 big scoop of cashew. (Day 3/14 of Step 3)
+SUMMARY:Dose: 1 big scoop
+UID:d2a17163-b2cd-43d9-a503-40043f6aca31@d2a1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251201
+DESCRIPTION:Take 1/16th tsp of cashew. (Day 9/14 of Step 7)
+SUMMARY:Dose: 1/16th tsp
+UID:ea360f22-befd-4bd0-9b98-db318eb09542@ea36.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251206
+DESCRIPTION:Take 1/16th tsp of cashew. (Day 14/14 of Step 7)
+SUMMARY:Dose: 1/16th tsp
+UID:f5dbec0a-ea91-4642-ac57-c0f713191ffd@f5db.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251030
+DESCRIPTION:Take 1/32th tsp of cashew. (Day 9/14 of Step 6)
+SUMMARY:Dose: 1/32th tsp
+UID:28c1ed87-dd74-4104-9c06-cb0ec13d99b2@28c1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251013
+DESCRIPTION:Transition Day 10/18 (from Step 5 to 6)\nPrepare for 1/32th tsp: Mix one dose of '1/32th tsp' into 3 oz of applesauce. Take 50ml of this mixture today.
+SUMMARY:Dose: 50ml from 1/32th tsp mixture
+UID:79c86f79-dda6-47dc-b061-9d5752273032@79c8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250815
+DESCRIPTION:Transition Day 15/18 (from Step 3 to 4)\nPrepare for 2 big scoops: Mix one dose of '2 big scoops' into 3 oz of applesauce. Take 75ml of this mixture today.
+SUMMARY:Dose: 75ml from 2 big scoops mixture
+UID:d14ad5ef-f513-403f-b428-ba4753423123@d14a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251113
+DESCRIPTION:Transition Day 9/18 (from Step 6 to 7)\nPrepare for 1/16th tsp: Mix one dose of '1/16th tsp' into 3 oz of applesauce. Take 45ml of this mixture today.
+SUMMARY:Dose: 45ml from 1/16th tsp mixture
+UID:4a506ce0-a499-43f7-b4c5-5708493ee10b@4a50.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250921
+DESCRIPTION:Take 1/64th tsp of cashew. (Day 2/14 of Step 5)
+SUMMARY:Dose: 1/64th tsp
+UID:b43cacec-5a4e-4364-95cb-2fbc0aaf8cc7@b43c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250822
+DESCRIPTION:Take 2 big scoops of cashew. (Day 4/14 of Step 4)
+SUMMARY:Dose: 2 big scoops
+UID:f33a619a-c364-46af-a81c-c0923427d295@f33a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251110
+DESCRIPTION:Transition Day 6/18 (from Step 6 to 7)\nPrepare for 1/16th tsp: Mix one dose of '1/16th tsp' into 3 oz of applesauce. Take 30ml of this mixture today.
+SUMMARY:Dose: 30ml from 1/16th tsp mixture
+UID:528e9733-3376-4b5f-8150-c2c1d1e2aeb6@528e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251118
+DESCRIPTION:Transition Day 14/18 (from Step 6 to 7)\nPrepare for 1/16th tsp: Mix one dose of '1/16th tsp' into 3 oz of applesauce. Take 70ml of this mixture today.
+SUMMARY:Dose: 70ml from 1/16th tsp mixture
+UID:669b6840-3b25-4bbb-b623-84c34ef4a772@669b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250806
+DESCRIPTION:Transition Day 6/18 (from Step 3 to 4)\nPrepare for 2 big scoops: Mix one dose of '2 big scoops' into 3 oz of applesauce. Take 30ml of this mixture today.
+SUMMARY:Dose: 30ml from 2 big scoops mixture
+UID:56b2cdff-ae10-48df-ab02-419bcf49e37b@56b2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250829
+DESCRIPTION:Take 2 big scoops of cashew. (Day 11/14 of Step 4)
+SUMMARY:Dose: 2 big scoops
+UID:0a10467f-1aef-4a29-a94e-0e925aeaf530@0a10.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250630
+DESCRIPTION:Transition Day 1/18 (from Step 2 to 3)\nPrepare for 1 big scoop: Mix one dose of '1 big scoop' into 3 oz of applesauce. Take 5ml of this mixture today.
+SUMMARY:Dose: 5ml from 1 big scoop mixture
+UID:dcb14bbd-e1d2-4f6c-b7bd-09a17ff32bd8@dcb1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250801
+DESCRIPTION:Transition Day 1/18 (from Step 3 to 4)\nPrepare for 2 big scoops: Mix one dose of '2 big scoops' into 3 oz of applesauce. Take 5ml of this mixture today.
+SUMMARY:Dose: 5ml from 2 big scoops mixture
+UID:972b9f05-c267-4147-841c-0d2bb574b278@972b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251007
+DESCRIPTION:Transition Day 4/18 (from Step 5 to 6)\nPrepare for 1/32th tsp: Mix one dose of '1/32th tsp' into 3 oz of applesauce. Take 20ml of this mixture today.
+SUMMARY:Dose: 20ml from 1/32th tsp mixture
+UID:8fccf034-aaab-436e-8844-1be06b24c378@8fcc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250707
+DESCRIPTION:Transition Day 8/18 (from Step 2 to 3)\nPrepare for 1 big scoop: Mix one dose of '1 big scoop' into 3 oz of applesauce. Take 40ml of this mixture today.
+SUMMARY:Dose: 40ml from 1 big scoop mixture
+UID:31a7774c-a78b-4965-b99b-52879c7889a0@31a7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250618
+DESCRIPTION:Take 2 small scoops of cashew. (Day 3/14 of Step 2)
+SUMMARY:Dose: 2 small scoops
+UID:b3d73f92-50cb-42f1-9e4a-209faf6dcadd@b3d7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250709
+DESCRIPTION:Transition Day 10/18 (from Step 2 to 3)\nPrepare for 1 big scoop: Mix one dose of '1 big scoop' into 3 oz of applesauce. Take 50ml of this mixture today.
+SUMMARY:Dose: 50ml from 1 big scoop mixture
+UID:700fb75f-c9ed-434f-a4d3-37a4c74952bc@700f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250710
+DESCRIPTION:Transition Day 11/18 (from Step 2 to 3)\nPrepare for 1 big scoop: Mix one dose of '1 big scoop' into 3 oz of applesauce. Take 55ml of this mixture today.
+SUMMARY:Dose: 55ml from 1 big scoop mixture
+UID:975e6bd3-9b6b-4f56-b139-9c697cd5fd79@975e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250905
+DESCRIPTION:Transition Day 4/18 (from Step 4 to 5)\nPrepare for 1/64th tsp: Mix one dose of '1/64th tsp' into 3 oz of applesauce. Take 20ml of this mixture today.
+SUMMARY:Dose: 20ml from 1/64th tsp mixture
+UID:c727c7a5-78cd-43fb-9ef1-4de255293625@c727.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250619
+DESCRIPTION:Take 2 small scoops of cashew. (Day 4/14 of Step 2)
+SUMMARY:Dose: 2 small scoops
+UID:7bdf7651-276c-4988-8816-3e25ff34fe54@7bdf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250627
+DESCRIPTION:Take 2 small scoops of cashew. (Day 12/14 of Step 2)
+SUMMARY:Dose: 2 small scoops
+UID:5761c34a-6e59-4899-aa0e-57dffc37e64f@5761.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251104
+DESCRIPTION:Take 1/32th tsp of cashew. (Day 14/14 of Step 6)
+SUMMARY:Dose: 1/32th tsp
+UID:57424316-7686-4183-bc1f-3f10afb8678b@5742.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250601
+DESCRIPTION:Transition Day 4/18 (from Step 1 to 2)\nPrepare for 2 small scoops: Mix one dose of '2 small scoops' into 3 oz of applesauce. Take 20ml of this mixture today.
+SUMMARY:Dose: 20ml from 2 small scoops mixture
+UID:71e901ad-7616-426d-bcae-65e904abe405@71e9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251102
+DESCRIPTION:Take 1/32th tsp of cashew. (Day 12/14 of Step 6)
+SUMMARY:Dose: 1/32th tsp
+UID:cddb68d1-c11b-4989-8498-e744fcfb7630@cddb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250824
+DESCRIPTION:Take 2 big scoops of cashew. (Day 6/14 of Step 4)
+SUMMARY:Dose: 2 big scoops
+UID:c9ff56f6-b626-4def-9119-7b0ce65c4794@c9ff.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250718
+DESCRIPTION:Take 1 big scoop of cashew. (Day 1/14 of Step 3)
+SUMMARY:Dose: 1 big scoop
+UID:827e955b-77f0-4665-9488-3fa1ab9b6d9a@827e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250713
+DESCRIPTION:Transition Day 14/18 (from Step 2 to 3)\nPrepare for 1 big scoop: Mix one dose of '1 big scoop' into 3 oz of applesauce. Take 70ml of this mixture today.
+SUMMARY:Dose: 70ml from 1 big scoop mixture
+UID:ef51eee7-3634-4224-a0c3-9c7a4422179a@ef51.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250803
+DESCRIPTION:Transition Day 3/18 (from Step 3 to 4)\nPrepare for 2 big scoops: Mix one dose of '2 big scoops' into 3 oz of applesauce. Take 15ml of this mixture today.
+SUMMARY:Dose: 15ml from 2 big scoops mixture
+UID:99360c9d-dfa4-4603-a4a8-09b18877dcee@9936.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251019
+DESCRIPTION:Transition Day 16/18 (from Step 5 to 6)\nPrepare for 1/32th tsp: Mix one dose of '1/32th tsp' into 3 oz of applesauce. Take 80ml of this mixture today.
+SUMMARY:Dose: 80ml from 1/32th tsp mixture
+UID:63abea97-c597-4fe4-bd43-d27fb5f19491@63ab.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250728
+DESCRIPTION:Take 1 big scoop of cashew. (Day 11/14 of Step 3)
+SUMMARY:Dose: 1 big scoop
+UID:6c6bf591-7de8-402f-93da-390142923033@6c6b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250522
+DESCRIPTION:Extended period for Step 1 ('1 small scoop'). (Delay Day 1/7)\nContinue taking 1 small scoop of cashew.
+SUMMARY:Dose (Extended): 1 small scoop
+UID:e4ed34c7-e89c-4040-8e85-be5c4baf80f9@e4ed.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250527
+DESCRIPTION:Extended period for Step 1 ('1 small scoop'). (Delay Day 6/7)\nContinue taking 1 small scoop of cashew.
+SUMMARY:Dose (Extended): 1 small scoop
+UID:0d48ae72-b77c-44aa-92a6-1ab93ba106d5@0d48.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250717
+DESCRIPTION:Transition Day 18/18 (from Step 2 to 3)\nPrepare for 1 big scoop: Mix one dose of '1 big scoop' into 3 oz of applesauce. Take 90ml of this mixture today.
+SUMMARY:Dose: 90ml from 1 big scoop mixture
+UID:b4f90da6-2dd4-43a6-a02d-b0bf9a28b9ac@b4f9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251105
+DESCRIPTION:Transition Day 1/18 (from Step 6 to 7)\nPrepare for 1/16th tsp: Mix one dose of '1/16th tsp' into 3 oz of applesauce. Take 5ml of this mixture today.
+SUMMARY:Dose: 5ml from 1/16th tsp mixture
+UID:dd9d1954-b1b1-425d-a66c-d8c2467a281c@dd9d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250521
+DESCRIPTION:Take 1 small scoop of cashew. (Day 14/14 of Step 1)
+SUMMARY:Dose: 1 small scoop
+UID:28fd4013-495d-4b91-94f7-ae3a48103b5b@28fd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250612
+DESCRIPTION:Transition Day 15/18 (from Step 1 to 2)\nPrepare for 2 small scoops: Mix one dose of '2 small scoops' into 3 oz of applesauce. Take 75ml of this mixture today.
+SUMMARY:Dose: 75ml from 2 small scoops mixture
+UID:6431145a-e583-427f-8e4e-3a39df56ff79@6431.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251018
+DESCRIPTION:Transition Day 15/18 (from Step 5 to 6)\nPrepare for 1/32th tsp: Mix one dose of '1/32th tsp' into 3 oz of applesauce. Take 75ml of this mixture today.
+SUMMARY:Dose: 75ml from 1/32th tsp mixture
+UID:00e26ff6-0ce6-4624-bccb-2e5c96c580c6@00e2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251021
+DESCRIPTION:Transition Day 18/18 (from Step 5 to 6)\nPrepare for 1/32th tsp: Mix one dose of '1/32th tsp' into 3 oz of applesauce. Take 90ml of this mixture today.
+SUMMARY:Dose: 90ml from 1/32th tsp mixture
+UID:b615d76f-501e-426c-a4d7-a1265d77fa27@b615.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250530
+DESCRIPTION:Transition Day 2/18 (from Step 1 to 2)\nPrepare for 2 small scoops: Mix one dose of '2 small scoops' into 3 oz of applesauce. Take 10ml of this mixture today.
+SUMMARY:Dose: 10ml from 2 small scoops mixture
+UID:b561f16e-b01a-43b3-aab3-95844742fe20@b561.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250814
+DESCRIPTION:Transition Day 14/18 (from Step 3 to 4)\nPrepare for 2 big scoops: Mix one dose of '2 big scoops' into 3 oz of applesauce. Take 70ml of this mixture today.
+SUMMARY:Dose: 70ml from 2 big scoops mixture
+UID:15baf364-31d7-44b6-8562-988d916d6a7b@15ba.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250724
+DESCRIPTION:Take 1 big scoop of cashew. (Day 7/14 of Step 3)
+SUMMARY:Dose: 1 big scoop
+UID:60334620-813a-40a1-a039-1514df727600@6033.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250904
+DESCRIPTION:Transition Day 3/18 (from Step 4 to 5)\nPrepare for 1/64th tsp: Mix one dose of '1/64th tsp' into 3 oz of applesauce. Take 15ml of this mixture today.
+SUMMARY:Dose: 15ml from 1/64th tsp mixture
+UID:efe1f1a5-f900-4435-8a0f-9d0f26e97f89@efe1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251106
+DESCRIPTION:Transition Day 2/18 (from Step 6 to 7)\nPrepare for 1/16th tsp: Mix one dose of '1/16th tsp' into 3 oz of applesauce. Take 10ml of this mixture today.
+SUMMARY:Dose: 10ml from 1/16th tsp mixture
+UID:a16bdc7e-19c9-4a56-80c3-43fb53f7172f@a16b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251126
+DESCRIPTION:Take 1/16th tsp of cashew. (Day 4/14 of Step 7)
+SUMMARY:Dose: 1/16th tsp
+UID:a290c25d-e26b-43a3-bd61-ec2f6de0169d@a290.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250727
+DESCRIPTION:Take 1 big scoop of cashew. (Day 10/14 of Step 3)
+SUMMARY:Dose: 1 big scoop
+UID:2d77fa5d-a9b1-4280-be0a-e79bd384c4cf@2d77.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250512
+DESCRIPTION:Take 1 small scoop of cashew. (Day 5/14 of Step 1)
+SUMMARY:Dose: 1 small scoop
+UID:1d7c067f-a5ba-473b-a488-94e5f7b5cee7@1d7c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250819
+DESCRIPTION:Take 2 big scoops of cashew. (Day 1/14 of Step 4)
+SUMMARY:Dose: 2 big scoops
+UID:d85b6197-4b45-42f7-827f-5eaea775808e@d85b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251101
+DESCRIPTION:Take 1/32th tsp of cashew. (Day 11/14 of Step 6)
+SUMMARY:Dose: 1/32th tsp
+UID:263dad15-cf79-418e-b283-5ea910871329@263d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250509
+DESCRIPTION:Take 1 small scoop of cashew. (Day 2/14 of Step 1)
+SUMMARY:Dose: 1 small scoop
+UID:ea2d8c09-c900-419d-8166-4abb3f61e4c8@ea2d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250902
+DESCRIPTION:Transition Day 1/18 (from Step 4 to 5)\nPrepare for 1/64th tsp: Mix one dose of '1/64th tsp' into 3 oz of applesauce. Take 5ml of this mixture today.
+SUMMARY:Dose: 5ml from 1/64th tsp mixture
+UID:9322842d-6fbe-4204-91c3-f90748dc966f@9322.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251116
+DESCRIPTION:Transition Day 12/18 (from Step 6 to 7)\nPrepare for 1/16th tsp: Mix one dose of '1/16th tsp' into 3 oz of applesauce. Take 60ml of this mixture today.
+SUMMARY:Dose: 60ml from 1/16th tsp mixture
+UID:e13927da-4a67-4f72-9d29-18e193e61d8c@e139.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250626
+DESCRIPTION:Take 2 small scoops of cashew. (Day 11/14 of Step 2)
+SUMMARY:Dose: 2 small scoops
+UID:fbb6a4b9-aa0d-46f1-801d-4cff1df96dbd@fbb6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250827
+DESCRIPTION:Take 2 big scoops of cashew. (Day 9/14 of Step 4)
+SUMMARY:Dose: 2 big scoops
+UID:c3ae6c30-7149-44eb-816c-70118446bac3@c3ae.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250705
+DESCRIPTION:Transition Day 6/18 (from Step 2 to 3)\nPrepare for 1 big scoop: Mix one dose of '1 big scoop' into 3 oz of applesauce. Take 30ml of this mixture today.
+SUMMARY:Dose: 30ml from 1 big scoop mixture
+UID:a1e0c894-b366-4749-9acd-814e696323ef@a1e0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251004
+DESCRIPTION:Transition Day 1/18 (from Step 5 to 6)\nPrepare for 1/32th tsp: Mix one dose of '1/32th tsp' into 3 oz of applesauce. Take 5ml of this mixture today.
+SUMMARY:Dose: 5ml from 1/32th tsp mixture
+UID:55a87c41-1389-452f-b1d2-92cf207b510f@55a8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251029
+DESCRIPTION:Take 1/32th tsp of cashew. (Day 8/14 of Step 6)
+SUMMARY:Dose: 1/32th tsp
+UID:3f8ae0b0-540a-411e-b210-f62e20013065@3f8a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250714
+DESCRIPTION:Transition Day 15/18 (from Step 2 to 3)\nPrepare for 1 big scoop: Mix one dose of '1 big scoop' into 3 oz of applesauce. Take 75ml of this mixture today.
+SUMMARY:Dose: 75ml from 1 big scoop mixture
+UID:a6824339-ac07-4bb9-ae70-e3b6f2a0515b@a682.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251122
+DESCRIPTION:Transition Day 18/18 (from Step 6 to 7)\nPrepare for 1/16th tsp: Mix one dose of '1/16th tsp' into 3 oz of applesauce. Take 90ml of this mixture today.
+SUMMARY:Dose: 90ml from 1/16th tsp mixture
+UID:e41e1239-bd8a-4ed6-b1cb-ec498b0b1600@e41e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251128
+DESCRIPTION:Take 1/16th tsp of cashew. (Day 6/14 of Step 7)
+SUMMARY:Dose: 1/16th tsp
+UID:1be53629-2b65-4dc7-9e59-382e87fb6a18@1be5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251005
+DESCRIPTION:Transition Day 2/18 (from Step 5 to 6)\nPrepare for 1/32th tsp: Mix one dose of '1/32th tsp' into 3 oz of applesauce. Take 10ml of this mixture today.
+SUMMARY:Dose: 10ml from 1/32th tsp mixture
+UID:46fb23c7-3ed4-41b2-9752-5efb5316b962@46fb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251129
+DESCRIPTION:Take 1/16th tsp of cashew. (Day 7/14 of Step 7)
+SUMMARY:Dose: 1/16th tsp
+UID:d94d1257-6110-4db9-b5e2-115e3d50fc81@d94d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250510
+DESCRIPTION:Take 1 small scoop of cashew. (Day 3/14 of Step 1)
+SUMMARY:Dose: 1 small scoop
+UID:09572967-fae6-45a2-b634-696be2c9f2aa@0957.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250831
+DESCRIPTION:Take 2 big scoops of cashew. (Day 13/14 of Step 4)
+SUMMARY:Dose: 2 big scoops
+UID:3d3386eb-1de3-4dca-b276-c0451d2d31d5@3d33.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250608
+DESCRIPTION:Transition Day 11/18 (from Step 1 to 2)\nPrepare for 2 small scoops: Mix one dose of '2 small scoops' into 3 oz of applesauce. Take 55ml of this mixture today.
+SUMMARY:Dose: 55ml from 2 small scoops mixture
+UID:a7fd8842-c3e8-4b6d-8a5d-0f23b612a5db@a7fd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251027
+DESCRIPTION:Take 1/32th tsp of cashew. (Day 6/14 of Step 6)
+SUMMARY:Dose: 1/32th tsp
+UID:4d1a54c8-629c-42cb-b70b-f94fa4b662ef@4d1a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250701
+DESCRIPTION:Transition Day 2/18 (from Step 2 to 3)\nPrepare for 1 big scoop: Mix one dose of '1 big scoop' into 3 oz of applesauce. Take 10ml of this mixture today.
+SUMMARY:Dose: 10ml from 1 big scoop mixture
+UID:5752e929-3af7-47e2-a003-521f2f9e096b@5752.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250622
+DESCRIPTION:Take 2 small scoops of cashew. (Day 7/14 of Step 2)
+SUMMARY:Dose: 2 small scoops
+UID:02f706f6-8e92-47b4-9fd6-5e7670b1dda2@02f7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250615
+DESCRIPTION:Transition Day 18/18 (from Step 1 to 2)\nPrepare for 2 small scoops: Mix one dose of '2 small scoops' into 3 oz of applesauce. Take 90ml of this mixture today.
+SUMMARY:Dose: 90ml from 2 small scoops mixture
+UID:c5d5bb11-32d2-41d8-b8c1-f7dd59295ee0@c5d5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250525
+DESCRIPTION:Extended period for Step 1 ('1 small scoop'). (Delay Day 4/7)\nContinue taking 1 small scoop of cashew.
+SUMMARY:Dose (Extended): 1 small scoop
+UID:a112b990-81bb-4988-906f-9b080af6a8da@a112.org
+END:VEVENT
+END:VCALENDAR
