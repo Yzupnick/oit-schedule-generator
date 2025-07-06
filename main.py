@@ -305,6 +305,7 @@ def create_medication_schedule():
         print("You can now import this file into your calendar application.")
     except Exception as e:
         print(f"Error writing ICS file: {e}")
+    return current_date
 
 if __name__ == "__main__":
     print("Medication Schedule iCalendar (.ics) Generator")
@@ -313,4 +314,5 @@ if __name__ == "__main__":
     print(f"It can use a pre-configured delay from '{DELAY_INFO_FILENAME}', or prompt you for delay details.")
     print("Ensure you have Python installed, and the 'ics' library (pip install ics).")
     print("-" * 30)
-    create_medication_schedule()
+    final_date = create_medication_schedule()
+    print(f"The last day is {final_date}")
